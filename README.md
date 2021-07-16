@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a GUI to get realtime information about the surf conditions
 - 🌱 I’m currently learning about webscraping 
-- 👯 I’m looking to collaborate on any data science project energy related!
+- 👯 I’m looking to collaborate on any data science project related to the energy sector!
