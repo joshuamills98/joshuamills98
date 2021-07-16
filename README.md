@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a GUI to get realtime information about the surf conditions
+- 🔭 I’m currently working on a data science project surrounding the spanish energy market
 - 🌱 I’m currently learning about webscraping 
 - 👯 I’m looking to collaborate on any data science project related to the energy sector!
