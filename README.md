@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about time-series analysis and modelling 
 - 👯 I’m looking to collaborate on any data science project related to the energy sector!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamills98)](https://github.com/joshuamills98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamills98&show_icons=true&theme=radical)](https://github.com/joshuamills98/github-readme-stats)
 
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuamills98&show_icons=true&theme=radical)](https://github.com/joshuamills98/github-readme-stats)
